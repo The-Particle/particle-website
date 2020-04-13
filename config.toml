@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.example.com/"
+baseurl = "https://the-particle.github.io/"
 languageCode = "en"
 title = "Particle"
 theme = "vex-hugo"
