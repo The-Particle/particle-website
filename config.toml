@@ -44,13 +44,13 @@ theme = "vex-hugo"
   URL = "feature"
   weight = 2
   
-  [[menu.main]]
-  name = "Gallery"
-  URL = "gallery"
-  weight = 3
+  #[[menu.main]]
+  #name = "Gallery"
+  #URL = "gallery"
+  #weight = 3
   
   [[menu.main]]
-  name = "Testimonial"
+  name = "Team"
   URL = "testimonial"
   weight = 4
 
@@ -67,7 +67,7 @@ google_analitycs_id = "Your ID"
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 # copyright
-copyright = "Copyright 2019 &copy; [themefisher](http://www.Themefisher.com) | All right reserved."
+copyright = "Copyright 2019 &copy; Particle | All right reserved. | Theme by [themefisher](http://www.Themefisher.com)"
 
 # Preloader
 [params.preloader]
