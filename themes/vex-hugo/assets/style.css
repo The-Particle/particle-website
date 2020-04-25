@@ -429,33 +429,33 @@ a:active {
 /*--
     service start
 --*/
-.testimonials .testimonial-block {
+.team .team-block {
   padding: 0 10px;
 }
 
-.testimonials .testimonial-block i {
+.team .team-block i {
   font-size: 40px;
   display: inline-block;
   margin-bottom: 20px;
   color: #f9a743;
 }
 
-.testimonials .testimonial-block p {
+.team .team-block p {
   font-family: "Droid Serif", serif;
   font-size: 14px;
   color: #777;
 }
 
-.testimonials .testimonial-block .author-details {
+.team .team-block .author-details {
   margin-top: 30px;
 }
 
-.testimonials .testimonial-block .author-details img {
+.team .team-block .author-details img {
   border-radius: 50%;
-  width: 50px;
+  width: 100px;
 }
 
-.testimonials .testimonial-block .author-details h4 {
+.team .team-block .author-details h4 {
   font-weight: 700;
   font-size: 20px;
   margin-top: 10px;

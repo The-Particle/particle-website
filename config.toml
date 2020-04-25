@@ -51,7 +51,7 @@ theme = "vex-hugo"
   
   [[menu.main]]
   name = "Team"
-  URL = "testimonial"
+  URL = "team"
   weight = 4
 
 
