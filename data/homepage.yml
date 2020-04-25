@@ -124,42 +124,42 @@ team:
   memberItem:
     # member item loop
     - name : "Usman Shahid"
-      designation : "Title Here"
+      designation : "Co-founder"
       image : "images/usman.jpg"
       linkedInURL: "https://www.linkedin.com/in/usmanx86/"
       # content : ""
       
     # member item loop
     - name : "Kevin Cheng"
-      designation : "Title Here"
+      designation : "Co-founder"
       image : "images/kevin.jpg"
       linkedInURL: "https://www.linkedin.com/in/kevin-cheng-1975021a/"
       # content : ""
       
     # member item loop
     - name : "Shreyaa Sridhar"
-      designation : "Title Here"
+      designation : "Game Engineer"
       image : "images/shreyaa.jpg"
       linkedInURL: "https://www.linkedin.com/in/shreyaa-sridhar/"
       # content : ""
 
     # member item loop
     - name : "Eliot Chang"
-      designation : "Title Here"
+      designation : "Front-End Engineer"
       image : "images/eliot.jpg"
       linkedInURL: "https://www.linkedin.com/in/eliot-chang/"
       # content : ""
 
     # member item loop
     - name : "Smriti Shreya"
-      designation : "Title Here"
+      designation : "Backend Engineer"
       image : "images/smriti.jpg"
       linkedInURL: "https://www.linkedin.com/in/smriti-shreya-b69150169"
       # content : ""
     
     # member item loop
     - name : "Shruti Singh"
-      designation : "Title Here"
+      designation : "Full Stack Engineer"
       image : "images/shruti.jpg"
       linkedInURL: "https://www.linkedin.com/in/shruti-usc/"
       # content : ""
