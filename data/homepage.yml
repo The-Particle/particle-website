@@ -6,7 +6,10 @@ banner:
   of your surrounding and provide a novel way to communicate, discover, 
   and interact with your community."
   image : "images/particle_iphonex_mock.png"
-  button: "Download"
+  button:
+    enable : true
+    label : "Download"
+    link : "https://drive.google.com/open?id=1SMIKNqKUU1rxBbcjbWq22pOaVIYY7vm5"
 
 ############################## product ###########################
 # product:
@@ -59,14 +62,15 @@ features:
 
 
 ############################# promo ############################
-# promo:
-#   enable : true
-#   image : "images/watch.png"
-#   title : "Designed by professional , the benefit for creative gigs"
-#   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-#             nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-#             <br><br>
-#             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+promo:
+  enable : true
+  youtubeId: "O_dAdWlq-Ds"
+  image : "images/watch.png"
+  title : "Designed by professional , the benefit for creative gigs"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
+            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+            <br><br>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
 
 
 ############################# About Product #######################

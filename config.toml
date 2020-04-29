@@ -58,6 +58,7 @@ theme = "vex-hugo"
 ########################### Default parameters ##########################
 [params]
 logo = ""
+uscGamesLogo = "images/usc-games-logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
